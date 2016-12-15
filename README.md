@@ -7,7 +7,7 @@ This repo contains the designs and source files of a **DIY Centrifuge**. This de
  	BHA_Centrifuge/						main repo
  	|-- Arduino Code/Centrifuge/		Arduino Code
  	|-- Rotor/							OpenSCAD rotor design
- 	BoM.md									Bill of Materials
+ 	BoM.md								Bill of Materials
  	Centrifuge-Fritzing.fzz				Wiring Scheme
  	Centrifuge-Sketchup.skp				Sketchup 3D design
  	Centrifuge-Cut-Sheet.svg			Laser cut vector file
