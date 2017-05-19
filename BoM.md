@@ -5,7 +5,7 @@ Make sure you have an Arduino or equivalent microprocessor, big enough sheets of
 
 *  转子使用3D打印，可以自己设计，这里已经有个设计好的： [Microfuge 8 Place Rotor](http://www.thingiverse.com/thing:97524)。As a rotor we wil use a 3D print of your own design, or this [Microfuge 8 Place Rotor](http://www.thingiverse.com/thing:97524)
 
-### Components that are needed to assemble everything on a breadboard
+### Components that are needed to assemble everything on a breadboard用面包板来组装全部组件所需要的材料
 
 No|Amount|Description|Supplier NL|Cost
 ------------: | ------------: | :------------ | :------------ | ------------:
