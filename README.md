@@ -1,8 +1,9 @@
 #BHA Centrifuge
 
+这是diy离心机的文件资料。这个设备用来从液体中分离化合物。更多信息可以看下面的网址的信息。
 This repo contains the designs and source files of a **DIY Centrifuge**. This device can be used to isolate compounds from a liquid. Check out the corresponding [BHA lecture in the Syllabus](http://biohackacademy.github.io) for more information.
 
-##Navigation the repo
+##Navigation the repo 文件结构
 
  	BHA_Centrifuge/						main repo
  	|-- Arduino Code/Centrifuge/		Arduino Code
@@ -14,6 +15,7 @@ This repo contains the designs and source files of a **DIY Centrifuge**. This de
 
 ##Releases
 
+截止目前，Biohack已经发布了3个版本，本版本来自最新的2016的fork
 The BioHack Academy 3 release contains the following:
 
 * 2015 BHA1 Design
@@ -21,6 +23,7 @@ The BioHack Academy 3 release contains the following:
 * 2016 BHA3 Design
 
 ## To Do
+还需要改进的地方  
 
 * Slide lock on top lid
 * Lever switch lid detector
