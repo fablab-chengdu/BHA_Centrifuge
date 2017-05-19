@@ -1,8 +1,9 @@
 ## Bill of Materials
 
+使用Arduino来控制，使用3mm的层压木板来制作外壳，确保有足够的线材和M3 x 10的螺丝螺母。
 Make sure you have an Arduino or equivalent microprocessor, big enough sheets of 3mm material to cut the design from and plenty of wires and M3 10 screws and nuts to assemble all the parts.
 
-* As a rotor we wil use a 3D print of your own design, or this [Microfuge 8 Place Rotor](http://www.thingiverse.com/thing:97524)
+*  转子使用3D打印，可以自己设计，这里已经有个设计好的： [Microfuge 8 Place Rotor](http://www.thingiverse.com/thing:97524)。As a rotor we wil use a 3D print of your own design, or this [Microfuge 8 Place Rotor](http://www.thingiverse.com/thing:97524)
 
 ### Components that are needed to assemble everything on a breadboard
 
