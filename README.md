@@ -1,6 +1,7 @@
 #BHA Centrifuge
 
-这是diy离心机的文件资料。这个设备用来从液体中分离化合物。更多信息可以看下面的网址的信息。
+这是diy离心机的文件资料。这个设备用来从液体中分离化合物。更多信息可以看下面的网址的信息：[Centrifuge](http://biohackacademy.github.io/bha4/class/6/)。
+
 This repo contains the designs and source files of a **DIY Centrifuge**. This device can be used to isolate compounds from a liquid. Check out the corresponding [BHA lecture in the Syllabus](http://biohackacademy.github.io) for more information.
 
 ##Navigation the repo 文件结构
