@@ -11,7 +11,7 @@ No|Amount|Description|Supplier NL|Cost
 ------------: | ------------: | :------------ | :------------ | ------------:
 1|1|DC Brushless motor 800 RPM/V & Electronic Speed Controller800RPM/V直流无刷电机以及速度控制器 |[HobbyKing](https://hobbyking.com/en_us/hobbyking-donkey-st3511-810kv-brushless-power-system-combo.html)|15.22
 2|1|3.5mm connector|[HobbyKing](http://www.hobbyking.com/hobbyking/store/__18448__Female_XT60_connectors_5pcs_bag_GENUINE.html)|3.14
-3|1|Rotary encoder|[Farnell](http://nl.farnell.com/alps/ec12e1240406/encoder-vertical-12mm-12det-12ppr/dp/2065052), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rotary-encoder), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9553)|0.42
+3|1|Rotary encode旋转编码器 |[Farnell](http://nl.farnell.com/alps/ec12e1240406/encoder-vertical-12mm-12det-12ppr/dp/2065052), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rotary-encoder), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9553)|0.42
 4|1|Knob按钮 |[Farnell](http://nl.farnell.com/multicomp/cr-r4-7/knob-soft-touch-d-shaft-black/dp/1440012?ost=1440012)|0.23
 5|1|Power switch电源开关 |[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=4710368&storeId=10168), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.71|
 6|1|DC power jack直流电源接头 |[Farnell](http://nl.farnell.com/multicomp/jr1819-rohs-psg01769/socket-low-voltage-2-1mm-chassis/dp/1216726), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14342)|0.85|
