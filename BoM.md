@@ -19,7 +19,7 @@ No|Amount|Description|Supplier NL|Cost
 8|1|Push button按压开关 |[Farnell](http://nl.farnell.com/omron-electronic-components/b3f4155/switch-projected-12x12x7-3-260gf/dp/1960977?ost=OMRON+ELECTRONIC+COMPONENTS++B3F4155&selectedCategoryId=&categoryNameResp=Alle%2Bcategorie%25C3%25ABn&searchView=table&iscrfnonsku=false),[iPrototype](https://iprototype.nl/products/components/buttons-switches/momentary-push-button), [Sparkfun](https://www.sparkfun.com/products/9190)|0.47
 9|1|10K resistor10K电阻 |[Farnell](http://nl.farnell.com/te-connectivity/cfr16j10k/resistor-carbon-10k-0-25w-5/dp/2329474), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=7016)|0.03
 10|4|Rubber feet橡胶垫 |[Conrad](https://www.conrad.nl/nl/toolcraft-elastische-buffer-zelfklevend-pd2104sw-x-h-10-mm-x-4-mm-zwart-1-stuks-401489.html)|0.08
-11|1|Infrared sensor红外传感器 |[Farnell](http://nl.farnell.com/fairchild-semiconductor/qrd1114/opto-switch-reflective/dp/1467858?Ntt=1467858)|1.70
+11|1|Infrared sensor红外传感器 |[Farnell](http://uk.farnell.com/fairchild-semiconductor/qrd1114/opto-switch-reflective/dp/1467858)|1.70
 12|1|6.8 KOhm resistor |[Farnell](http://nl.farnell.com/multicomp/mcf-0-25w-6k8/resistor-carbon-film-6k8-0-25w/dp/9339663?Ntt=9339663)|0.02
 13|1|220 Ohm resistor|[Farnell](http://nl.farnell.com/multicomp/mcf-0-25w-220r/resistor-carbon-film-220r-0-25w/dp/9339299?Ntt=9339299)|0.02
 16|1|I2C 1602 LCD display|[iPrototype](https://iprototype.nl/products/components/led-lcd/lcd16x2-I2C-BL), [Hackerstore](https://www.hackerstore.nl/Artikel/82)|8.95
