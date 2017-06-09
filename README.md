@@ -10,18 +10,22 @@ This repo contains the designs and source files of a **DIY Centrifuge**. This de
  	|-- Arduino Code/Centrifuge/		Arduino Code
  	|-- Rotor/							OpenSCAD rotor design
  	BoM.md								Bill of Materials
+  BOM-FablabChengdu.md   Bill of Materials for Fablab Chengdu Version
  	Centrifuge-Cut-Sheet.svg			Laser cut vector file
+  Centrifuge-Cut-Sheet-fablabchengdu.cdr			Laser cut vector file for Fablab Chengdu Version
  	Centrifuge-Fritzing.fzz				Wiring Scheme
  	Centrifuge-Sketchup.skp				Sketchup 3D design
 
 ##Releases
 
-截止目前，Biohack已经发布了3个版本，本版本来自最新的2016的fork
+截止目前，Biohack已经发布了3个版本:
 The BioHack Academy 3 release contains the following:
 
 * 2015 BHA1 Design
 * 2015 BHA2 Design
 * 2016 BHA3 Design
+
+2017年，Fablab Chengdu在BHA3基础上，开发了FablabChengdu Version。
 
 ## To Do
 还需要改进的地方  
