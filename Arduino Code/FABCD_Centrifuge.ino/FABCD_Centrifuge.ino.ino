@@ -21,12 +21,7 @@ void setup() {
 
   lcd.init();                      // initialize the lcd 
   lcd.init();
-  // Print a message to the LCD.
   lcd.backlight();
-  //lcd.setCursor(2,0);
-  //lcd.print("Hello, world!");
-  //lcd.setCursor(1,1);
-  //lcd.print("Ywrobot Arduino!");
   
 }
 
